@@ -16,12 +16,12 @@ body{
 
 main{
     background-color: hsl(225, 100%, 98%);
-    width: 25rem;
+    width: 23rem;
     height: 38.25rem;
     border-radius: 1.25rem;
 }
 img{
-    width: 25rem;
+    width: 23rem;
     height: 12.5rem;
     border-top-right-radius: 1.25rem;
     border-top-left-radius: 1.25rem;
