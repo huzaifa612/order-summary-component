@@ -16,12 +16,12 @@ body{
 
 main{
     background-color: hsl(225, 100%, 98%);
-    width: 23rem;
+    width: 21rem;
     height: 38.25rem;
     border-radius: 1.25rem;
 }
 img{
-    width: 23rem;
+    width: 21rem;
     height: 12.5rem;
     border-top-right-radius: 1.25rem;
     border-top-left-radius: 1.25rem;
@@ -46,7 +46,7 @@ p{
     width: 18.75rem;
     height: 5rem;
     font-size: 1rem;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 h2, h3{
     font-size: .8rem;
@@ -67,8 +67,7 @@ h3{
 .plans img{
     width: 2.5rem;
     height: 2.5rem;
-    margin: auto 0 auto 0;
-    margin-left: ;
+    margin: auto 15px auto;
 }
 .btn, .butn{
     display: block;
