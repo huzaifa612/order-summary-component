@@ -46,7 +46,7 @@ p{
     width: 18.75rem;
     height: 5rem;
     font-size: 1rem;
-    border-radius: 10px;
+    border-radius: .625rem;
 }
 h2, h3{
     font-size: .8rem;
@@ -67,16 +67,16 @@ h3{
 .plans img{
     width: 2.5rem;
     height: 2.5rem;
-    margin: auto 15px auto;
+    margin: auto .9375rem auto;
 }
 .btn, .butn{
     display: block;
-    margin: 20px auto 0 auto;
-    padding: 15px 80px 15px 80px;
+    margin: 1.25rem auto 0 auto;
+    padding: .9375rem 5rem .9375rem 5rem;
     background-color: #382ae1;
     border: none;
     color: hsl(225, 100%, 98%);
-    border-radius: 10px;
+    border-radius: .625rem;
 }
 .butn{
     background: none;
