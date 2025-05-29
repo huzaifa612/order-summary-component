@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("images/pattern-background-desktop.svg") no-repeat hsl(225, 100%, 94%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+main{
+    background-color: hsl(225, 100%, 98%);
+    width: 25rem;
+    height: 38.25rem;
+    border-radius: 1.25rem;
+}
+img{
+    width: 25rem;
+    height: 12.5rem;
+    border-top-right-radius: 1.25rem;
+    border-top-left-radius: 1.25rem;
+}
+h1{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-top: 1.25rem;
+    color: hsl(223, 47%, 23%);
+}
+p{
+    text-align: center;
+    margin: 1.6rem 1.875rem 0 1.875rem;
+    color: hsl(224, 23%, 55%);
+}
+.plans{
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fe;
+    margin: 1.25rem auto 0 auto;
+    width: 18.75rem;
+    height: 5rem;
+    font-size: 1rem;
+    border-radius: 20px;
+}
+h2, h3{
+    font-size: .8rem;
+    margin-left: 1.25rem;
+}
+h2{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+h3{
+    color: hsl(224, 23%, 55%);
+}
+.plans a{
+    margin-left: 4.375rem;
+    font-size: .8rem;
+    font-weight: 700;
+}
+.plans img{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin: auto 0 auto 0;
+    margin-left: ;
+}
+.btn, .butn{
+    display: block;
+    margin: 20px auto 0 auto;
+    padding: 15px 80px 15px 80px;
+    background-color: #382ae1;
+    border: none;
+    color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+}
+.butn{
+    background: none;
+}
+.butn a{
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+}
